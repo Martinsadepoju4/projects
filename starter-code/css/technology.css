@@ -206,7 +206,7 @@ a {
 
 @media (max-width:450px) {
   body {
-    background-image: url("../assets/technology/background-technology-mobile.jpg");
+    background-image: url("../assets/technology/background-technology-tablet.jpg");
     margin: 5%;
   }
 
