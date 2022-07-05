@@ -155,7 +155,7 @@ main {
 
 @media (max-width: 450px) {
   body {
-    background-image: url("../assets/home/background-home-mobile.jpg");
+    background-image: url("../assets/home/background-home-tablet.jpg");
     margin: 5%;
   }
 
